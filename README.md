@@ -8,7 +8,6 @@ Studyline stores the following information locally:
 - Flashcards, sets, folders, and imported study content
 - Review progress, study history, statistics, and saved sessions
 - App preferences, such as appearance, daily goals, haptics, and reminder settings
-- A counter used to manage how often certain ads appear
   
 Studyline does not require an account. We do not automatically receive your flashcards or study records, store them on developer-operated servers, sell them, or send their contents to Google for advertising.
 
