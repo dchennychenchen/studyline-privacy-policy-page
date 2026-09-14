@@ -15,8 +15,7 @@ Studyline does not require an account. We do not automatically receive your flas
 
 Studyline uses Google AdMob to display advertisements. Google’s advertising SDK may collect information such as your IP address and approximate location, app- or device-related identifiers, ad views and interactions, and diagnostic and performance information. Google uses this information for advertising delivery and measurement, fraud prevention, and service improvement, and may use local storage and similar technologies.
 
-Studyline applies Google’s child age treatment to all ad requests. Under Google’s documented behavior, this disables personalized advertising and remarketing and prevents transmission of Apple’s advertising identifier (IDFA). Other advertising-related data processing may still occur.
-When available, you can review advertising privacy options under Settings → About → Ad Privacy Choices. This entry appears when Google’s consent platform indicates that privacy options are required.
+Studyline does not ask for, collect, or infer a user’s age. Instead, Google’s child age treatment is applied uniformly to every ad request, regardless of the user’s actual age. Under Google’s documented behavior, this disables personalized advertising and remarketing and prevents transmission of Apple’s advertising identifier (IDFA). Other advertising-related data processing may still occur. When available, you can review advertising privacy options under Settings → About → Ad Privacy Choices. This entry appears when Google’s consent platform indicates that privacy options are required.
 
 For details about Google’s processing, sharing, and retention of information, see [Google’s Privacy Policy](https://policies.google.com/privacy) and [How Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites).
 
